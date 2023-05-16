@@ -87,7 +87,7 @@ const Footer = () => {
           >
             <InstagramIcon />  
           </Link> 
-          <Link href="#"variant="body2" 
+          <Link href="https://www.facebook.com/dw33bs/"variant="body2" 
           sx={{
             color: '#414141',
             "&:hover": {
@@ -95,7 +95,7 @@ const Footer = () => {
             }
           }}
           >
-            <FacebookIcon />https://www.facebook.com/dw33bs/
+            <FacebookIcon />
           </Link> 
         </Stack>
         <Typography 
