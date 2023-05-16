@@ -102,7 +102,7 @@ const Footer = () => {
         variant='caption'
         component='p' 
         >
-          &copy; 2022 HBSales Inc.
+          &copy; 2023 B's Clinic.
         </Typography>
       </StackColumn>
     </BoxRow>
