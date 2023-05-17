@@ -28,7 +28,7 @@ const GetInTouch = () => {
             />
             <Paragraph 
             text={
-                'Name 0108888888'
+                ''
             }
             maxWidth = {'sm'}
             mx={0}
@@ -53,7 +53,7 @@ const GetInTouch = () => {
                 }
             }}
             >
-                get in touch
+                Name 0108888888
             </Button>
  
         </Stack>
