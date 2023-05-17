@@ -70,7 +70,7 @@ const Footer = () => {
       </StackColumn>
 
       <StackColumn>
-        <FooterTitle text={'B's Clinic'} />
+        <FooterTitle text={'Bs Clinic'} />
         <Stack 
         direction='row' 
         width= '70px'
