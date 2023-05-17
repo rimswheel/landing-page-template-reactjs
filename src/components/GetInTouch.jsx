@@ -28,10 +28,10 @@ const GetInTouch = () => {
             />
             <Paragraph 
             text={
-                'Staff1 \
-                Staff2 \
-                Staff3 \
-                Staff4 '
+                'Staff 0108888888 \
+                Staff 0108888888 \
+                Staff 0108888888 \
+                Staff 0108888888 \'
             }
             maxWidth = {'sm'}
             mx={0}
