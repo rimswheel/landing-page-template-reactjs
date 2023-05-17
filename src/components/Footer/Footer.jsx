@@ -70,14 +70,14 @@ const Footer = () => {
       </StackColumn>
 
       <StackColumn>
-        <FooterTitle text={'hBSales'} />
+        <FooterTitle text={'B's Clinic'} />
         <Stack 
         direction='row' 
         width= '70px'
         maxWidth='100%'
         justifyContent='space-between'
         >
-          <Link href="#" variant="body2" 
+          <Link href="http://www.instagram.com" variant="body2" 
           sx={{
             color: '#414141',
             "&:hover": {
